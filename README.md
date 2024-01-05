@@ -1,2 +1,2 @@
 # Quasar-Client
-Not what you think...
+Always use the installer if you don't know what you are doing!!!!!!
